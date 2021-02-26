@@ -32,13 +32,12 @@ I love coding in JavaScript. I work at [Muse](https://in.musewearables.com/) as 
 <img align="left" src="https://img.icons8.com/color/96/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
-</br>
 <img  align="left" src="https://img.icons8.com/color/96/000000/amazon-s3.png"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/nginx.png"/>
 <img align="left" src="https://img.icons8.com/bubbles/100/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/96/4a90e2/html-5.png"/>
 <img align="left" src="https://img.icons8.com/color/96/4a90e2/css3.png"/>
-<img  src="https://img.icons8.com/color/96/4a90e2/visual-studio-code-insides.png"/>
+<img align="left"  src="https://img.icons8.com/color/96/4a90e2/visual-studio-code-insides.png"/>
 </br>
 
 ### Let's Connect :coffee:
