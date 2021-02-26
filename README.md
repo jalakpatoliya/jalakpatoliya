@@ -35,7 +35,7 @@ I love coding in JavaScript. I work at [Muse](https://in.musewearables.com/) as 
 
 <img align="left"  src="https://img.icons8.com/color/64/000000/amazon-s3.png"/>
 <img align="left" src="https://img.icons8.com/color/64/000000/nginx.png"/>
-<img align="left" src="https://img.icons8.com/bubbles/80/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/windows/64/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/color/64/4a90e2/html-5.png"/>
 <img align="left" src="https://img.icons8.com/color/64/4a90e2/css3.png"/>
 <img src="https://img.icons8.com/color/64/4a90e2/visual-studio-code-insides.png"/>
