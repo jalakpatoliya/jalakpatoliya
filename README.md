@@ -25,20 +25,20 @@ I love coding in JavaScript. I work at [Muse](https://in.musewearables.com/) as 
 ### Languages and Tools:
 
 
-<img align="left" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
-<img align="left" src="https://img.icons8.com/nolan/96/javascript.png"/>
-<img align="left" src="https://img.icons8.com/bubbles/100/000000/react.png"/>
-<img align="left" src="https://img.icons8.com/color/96/000000/redux.png"/>
-<img align="left" src="https://img.icons8.com/color/96/000000/mongodb.png"/>
-<img align="left" src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
-<img align="left" src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
+<img align="left" src="https://img.icons8.com/color/64/000000/nodejs.png"/>
+<img align="left" src="https://img.icons8.com/nolan/64/javascript.png"/>
+<img align="left" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/color/64/000000/redux.png"/>
+<img align="left" src="https://img.icons8.com/color/64/000000/mongodb.png"/>
+<img align="left" src="https://img.icons8.com/color/64/000000/postgreesql.png"/>
+<img  src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
 
-<img  align="right" src="https://img.icons8.com/color/96/000000/amazon-s3.png"/>
-<img align="left" src="https://img.icons8.com/color/96/000000/nginx.png"/>
-<img align="left" src="https://img.icons8.com/bubbles/100/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/color/96/4a90e2/html-5.png"/>
-<img align="left" src="https://img.icons8.com/color/96/4a90e2/css3.png"/>
-<img src="https://img.icons8.com/color/96/4a90e2/visual-studio-code-insides.png"/>
+<img   src="https://img.icons8.com/color/64/000000/amazon-s3.png"/>
+<img align="left" src="https://img.icons8.com/color/64/000000/nginx.png"/>
+<img align="left" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/color/64/4a90e2/html-5.png"/>
+<img align="left" src="https://img.icons8.com/color/64/4a90e2/css3.png"/>
+<img src="https://img.icons8.com/color/64/4a90e2/visual-studio-code-insides.png"/>
 </br>
 
 ### Let's Connect :coffee:
