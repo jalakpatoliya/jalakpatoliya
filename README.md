@@ -43,11 +43,11 @@ I love coding in JavaScript. I work at [Muse](https://in.musewearables.com/) as 
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/jalakpatoliya"><img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/jalak-patoliya-66722410b/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/jalak.patolia/"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/jalak_patoliya/"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/JalakPatolia"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://github.com/jalakpatoliya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jalak-patoliya-66722410b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/jalak.patolia/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/jalak_patoliya/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/JalakPatolia"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
 ![alt text](./images/bottom.svg)
