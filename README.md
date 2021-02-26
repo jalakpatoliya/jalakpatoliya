@@ -32,7 +32,7 @@ I love coding in JavaScript. I work at [Muse](https://in.musewearables.com/) as 
 	<a href="https://twitter.com/JalakPatolia"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-<!--
+
 ![alt text](./images/bottom.svg)
--->
+
 
